@@ -1,6 +1,7 @@
 ---
 title: "Song Data to Term Frequency Inverse Document Matrix"
-output: html_document
+output: md_document
+always_allow_html: yes
 ---
 After reading this case study I would highly recommend reading "Text Mining in R".  This is available online for free.  It gives an in depth overview of many of the methods I will be using.   
 
